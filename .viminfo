@@ -12,11 +12,11 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1714200821,,"wq"
+|2,0,1714201453,,"wq"
 :Wq
-|2,0,1714200802,,"Wq"
+|2,0,1714201451,,"Wq"
 :q!
-|2,0,1714200476,,"q!"
+|2,0,1714201181,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -27,7 +27,65 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-""1	LINE	0
+""0	CHAR	0
+	<!DOCTYPE html>
+	<html lang="en">
+	   <head>
+	      <!-- basic -->
+	      <meta charset="utf-8">
+	      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	      <meta name="viewport" content="width=device-width, initial-scale=1">
+	      <!-- mobile metas -->
+	      <meta name="viewport" content="width=device-width, initial-scale=1">
+	      <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+	      <!-- site metas -->
+	      <title>Cycle</title>
+	      <meta name="keywords" content="">
+	      <meta name="description" content="">
+	      <meta name="author" content="">
+	      <!-- bootstrap css -->
+	      <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	      <!-- style css -->
+	      <link rel="stylesheet" type="text/css" href="css/style.css">
+	      <!-- Responsive-->
+	      <link rel="stylesheet" href="css/responsive.css">
+	      <!-- fevicon -->
+	      <link rel="icon" href="images/fevicon.png" type="image/gif" />
+	      <!-- Scrollbar Custom CSS -->
+	      <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
+	      <!-- Tweaks for older IEs-->
+	      <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+	      <!-- owl stylesheets --> 
+	      <link href="https://fonts.googleapis.com/css?family=Poppins:400,700|Raleway:400,700,800&display=swap" rel="stylesheet">
+	      <link rel="stylesheet" href="css/owl.carousel.min.css">
+	      <link rel="stylesoeet" href="css/owl.theme.default.min.css">
+	      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
+	   </head>
+	   <body>
+	      <!-- header section start -->
+	      <div class="header_section header_bg">
+	         <nav class="navbar navbar-expand-lg navbar-light bg-light">
+	            <a href="index.html" class="logo"><img src="images/logo.png"></a>
+	            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+	            <span class="navbar-toggler-icon"></span>
+	            </button>
+	            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+	               <ul class="navbar-nav mr-auto">
+	                  <li class="nav-item active">
+	                     <a class="nav-link" href="index.html">Home</a>
+	                  </li>
+	                  <li class="nav-item">
+	                     <a class="nav-link" href="about.html">About</a>
+	                  </li>
+	                  <li class="nav-item">
+|3,1,0,0,50,0,1714201287,"<!DOCTYPE html>","<html lang=\"en\">","   <head>","      <!-- basic -->","      <meta charset=\"utf-8\">","      <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">","      <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">","      <!-- mobile metas -->","      <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",>77
+|<"      <meta name=\"viewport\" content=\"initial-scale=1, maximum-scale=1\">","      <!-- site metas -->","      <title>Cycle</title>","      <meta name=\"keywords\" content=\"\">","      <meta name=\"description\" content=\"\">","      <meta name=\"author\" content=\"\">","      <!-- bootstrap css -->","      <link rel=\"stylesheet\" type=\"text/css\" href=\"css/bootstrap.min.css\">","      <!-- style css -->","      <link rel=\"stylesheet\" type=\"text/css\" href=\"css/style.css\">",>26
+|<"      <!-- Responsive-->","      <link rel=\"stylesheet\" href=\"css/responsive.css\">","      <!-- fevicon -->","      <link rel=\"icon\" href=\"images/fevicon.png\" type=\"image/gif\" />","      <!-- Scrollbar Custom CSS -->","      <link rel=\"stylesheet\" href=\"css/jquery.mCustomScrollbar.min.css\">","      <!-- Tweaks for older IEs-->","      <link rel=\"stylesheet\" href=\"https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css\">",>33
+|<"      <!-- owl stylesheets --> ","      <link href=\"https://fonts.googleapis.com/css?family=Poppins:400,700|Raleway:400,700,800&display=swap\" rel=\"stylesheet\">","      <link rel=\"stylesheet\" href=\"css/owl.carousel.min.css\">","      <link rel=\"stylesoeet\" href=\"css/owl.theme.default.min.css\">","      <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css\" media=\"screen\">","   </head>","   <body>",>37
+|<"      <!-- header section start -->","      <div class=\"header_section header_bg\">","         <nav class=\"navbar navbar-expand-lg navbar-light bg-light\">","            <a href=\"index.html\" class=\"logo\"><img src=\"images/logo.png\"></a>","            <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">",>57
+|<"            <span class=\"navbar-toggler-icon\"></span>","            </button>","            <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">","               <ul class=\"navbar-nav mr-auto\">","                  <li class=\"nav-item active\">","                     <a class=\"nav-link\" href=\"index.html\">Home</a>","                  </li>","                  <li class=\"nav-item\">","                     <a class=\"nav-link\" href=\"about.html\">About</a>",>25
+|<"                  </li>","                  <li class=\"nav-item\">"
+"1	LINE	0
 	<!DOCTYPE html>
 	<html lang="en">
 	<head>
@@ -76,235 +134,247 @@
 	    </footer>
 	</body>
 	</html>
-|3,1,1,1,48,0,1714200556,"<!DOCTYPE html>","<html lang=\"en\">","<head>","    <meta charset=\"UTF-8\">","    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">","    <title>My Webpage</title>","    <style>","        body {","            font-family: Arial, sans-serif;","            margin: 0;","            padding: 0;","            background-color: #f0f0f0;","        }","        header {","            background-color: #333;",>26
+|3,0,1,1,48,0,1714200556,"<!DOCTYPE html>","<html lang=\"en\">","<head>","    <meta charset=\"UTF-8\">","    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">","    <title>My Webpage</title>","    <style>","        body {","            font-family: Arial, sans-serif;","            margin: 0;","            padding: 0;","            background-color: #f0f0f0;","        }","        header {","            background-color: #333;",>26
 |<"            color: #fff;","            padding: 10px;","            text-align: center;","        }","        main {","            padding: 20px;","        }","        footer {","            background-color: #333;","            color: #fff;","            text-align: center;","            padding: 10px;","            position: fixed;","            bottom: 0;","            width: 100%;","        }","    </style>","</head>","<body>","    <header>",>40
 |<"        <h1>Welcome to My Webpage</h1>","    </header>","","    <main>","        <p>This is a simple HTML webpage.</p>","        <p>Feel free to edit and customize it as you wish!</p>","    </main>","","    <footer>","        <p>© 2024 My Webpage. All rights reserved.</p>","    </footer>","</body>","</html>"
 
 # File marks:
-'0  2  32  ~/html/Dockerfile
-|4,48,2,32,1714200821,"~/html/Dockerfile"
-'1  2  32  ~/html/Dockerf
-|4,49,2,32,1714200808,"~/html/Dockerf"
-'2  271  0  ~/index.html
-|4,50,271,0,1714200565,"~/index.html"
-'3  3  32  ~/html/Dockerfile
-|4,51,3,32,1714200495,"~/html/Dockerfile"
-'4  2  32  ~/html/Dockerfile
-|4,52,2,32,1714200495,"~/html/Dockerfile"
-'5  1  0  ~/Do
-|4,53,1,0,1714200476,"~/Do"
-'6  2  7  ~/Dockerfile
-|4,54,2,7,1714199433,"~/Dockerfile"
-'7  3  46  ~/html/Dockerfile
-|4,55,3,46,1714198560,"~/html/Dockerfile"
-'8  2  46  ~/html/Dockerfile
-|4,56,2,46,1714198560,"~/html/Dockerfile"
-'9  3  16  ~/html/Dockerfile
-|4,57,3,16,1714198436,"~/html/Dockerfile"
+'0  1  2  ~/index.html
+|4,48,1,2,1714201453,"~/index.html"
+'1  1  2  ~/index.html
+|4,49,1,2,1714201426,"~/index.html"
+'2  1  0  ~/i
+|4,50,1,0,1714201181,"~/i"
+'3  229  0  ~/index.html
+|4,51,229,0,1714201155,"~/index.html"
+'4  229  0  ~/index.html
+|4,52,229,0,1714201155,"~/index.html"
+'5  229  0  ~/index.html
+|4,53,229,0,1714201155,"~/index.html"
+'6  229  0  ~/index.html
+|4,54,229,0,1714201155,"~/index.html"
+'7  2  32  ~/html/Dockerfile
+|4,55,2,32,1714200821,"~/html/Dockerfile"
+'8  2  32  ~/html/Dockerf
+|4,56,2,32,1714200808,"~/html/Dockerf"
+'9  271  0  ~/index.html
+|4,57,271,0,1714200565,"~/index.html"
 
 # Jumplist (newest first):
+-'  1  2  ~/index.html
+|4,39,1,2,1714201453,"~/index.html"
+-'  1  2  ~/index.html
+|4,39,1,2,1714201426,"~/index.html"
+-'  29  0  ~/index.html
+|4,39,29,0,1714201265,"~/index.html"
+-'  29  0  ~/index.html
+|4,39,29,0,1714201265,"~/index.html"
+-'  229  0  ~/index.html
+|4,39,229,0,1714201185,"~/index.html"
+-'  229  0  ~/index.html
+|4,39,229,0,1714201185,"~/index.html"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  229  0  ~/index.html
+|4,39,229,0,1714201155,"~/index.html"
+-'  229  0  ~/index.html
+|4,39,229,0,1714201155,"~/index.html"
+-'  271  0  ~/index.html
+|4,39,271,0,1714201150,"~/index.html"
+-'  271  0  ~/index.html
+|4,39,271,0,1714201150,"~/index.html"
+-'  271  0  ~/index.html
+|4,39,271,0,1714201150,"~/index.html"
+-'  271  0  ~/index.html
+|4,39,271,0,1714201150,"~/index.html"
 -'  2  32  ~/html/Dockerfile
 |4,39,2,32,1714200821,"~/html/Dockerfile"
+-'  2  32  ~/html/Dockerfile
+|4,39,2,32,1714200821,"~/html/Dockerfile"
+-'  2  32  ~/html/Dockerfile
+|4,39,2,32,1714200821,"~/html/Dockerfile"
+-'  2  32  ~/html/Dockerfile
+|4,39,2,32,1714200821,"~/html/Dockerfile"
+-'  2  32  ~/html/Dockerfile
+|4,39,2,32,1714200821,"~/html/Dockerfile"
+-'  2  32  ~/html/Dockerfile
+|4,39,2,32,1714200821,"~/html/Dockerfile"
+-'  2  32  ~/html/Dockerfile
+|4,39,2,32,1714200821,"~/html/Dockerfile"
+-'  2  32  ~/html/Dockerfile
+|4,39,2,32,1714200821,"~/html/Dockerfile"
+-'  2  32  ~/html/Dockerfile
+|4,39,2,32,1714200821,"~/html/Dockerfile"
+-'  2  32  ~/html/Dockerfile
+|4,39,2,32,1714200821,"~/html/Dockerfile"
+-'  2  32  ~/html/Dockerfile
+|4,39,2,32,1714200821,"~/html/Dockerfile"
+-'  2  32  ~/html/Dockerfile
+|4,39,2,32,1714200821,"~/html/Dockerfile"
+-'  2  32  ~/html/Dockerfile
+|4,39,2,32,1714200821,"~/html/Dockerfile"
+-'  2  32  ~/html/Dockerfile
+|4,39,2,32,1714200821,"~/html/Dockerfile"
+-'  2  32  ~/html/Dockerfile
+|4,39,2,32,1714200821,"~/html/Dockerfile"
+-'  2  32  ~/html/Dockerfile
+|4,39,2,32,1714200821,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714200815,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714200815,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714200815,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714200815,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714200815,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714200815,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714200815,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714200815,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714200815,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714200815,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714200815,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714200815,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714200815,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714200815,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714200815,"~/html/Dockerfile"
 -'  1  0  ~/html/Dockerfile
 |4,39,1,0,1714200815,"~/html/Dockerfile"
 -'  2  32  ~/html/Dockerf
 |4,39,2,32,1714200808,"~/html/Dockerf"
 -'  2  32  ~/html/Dockerf
 |4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
+-'  2  32  ~/html/Dockerf
+|4,39,2,32,1714200808,"~/html/Dockerf"
 -'  1  0  ~/html/Dockerf
 |4,39,1,0,1714200781,"~/html/Dockerf"
 -'  1  0  ~/html/Dockerf
 |4,39,1,0,1714200781,"~/html/Dockerf"
--'  271  0  ~/index.html
-|4,39,271,0,1714200565,"~/index.html"
--'  271  0  ~/index.html
-|4,39,271,0,1714200565,"~/index.html"
--'  271  0  ~/index.html
-|4,39,271,0,1714200565,"~/index.html"
--'  271  0  ~/index.html
-|4,39,271,0,1714200565,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1714200540,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1714200540,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1714200540,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1714200540,"~/index.html"
--'  3  32  ~/html/Dockerfile
-|4,39,3,32,1714200495,"~/html/Dockerfile"
--'  2  32  ~/html/Dockerfile
-|4,39,2,32,1714200495,"~/html/Dockerfile"
--'  2  32  ~/html/Dockerfile
-|4,39,2,32,1714200495,"~/html/Dockerfile"
--'  2  32  ~/html/Dockerfile
-|4,39,2,32,1714200495,"~/html/Dockerfile"
--'  2  32  ~/html/Dockerfile
-|4,39,2,32,1714200495,"~/html/Dockerfile"
--'  1  0  ~/Do
-|4,39,1,0,1714200476,"~/Do"
--'  1  0  ~/Do
-|4,39,1,0,1714200476,"~/Do"
--'  1  0  ~/Do
-|4,39,1,0,1714200476,"~/Do"
--'  1  0  ~/Do
-|4,39,1,0,1714200476,"~/Do"
--'  1  0  ~/Do
-|4,39,1,0,1714200476,"~/Do"
--'  1  0  ~/Do
-|4,39,1,0,1714200476,"~/Do"
--'  1  0  ~/Do
-|4,39,1,0,1714200476,"~/Do"
--'  1  0  ~/Do
-|4,39,1,0,1714200476,"~/Do"
--'  1  0  ~/Do
-|4,39,1,0,1714200476,"~/Do"
--'  1  0  ~/Do
-|4,39,1,0,1714200476,"~/Do"
--'  1  0  ~/Do
-|4,39,1,0,1714200476,"~/Do"
--'  1  0  ~/Do
-|4,39,1,0,1714200476,"~/Do"
--'  1  0  ~/Do
-|4,39,1,0,1714200476,"~/Do"
--'  1  0  ~/Do
-|4,39,1,0,1714200476,"~/Do"
--'  1  0  ~/Do
-|4,39,1,0,1714200476,"~/Do"
--'  1  0  ~/Do
-|4,39,1,0,1714200476,"~/Do"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  2  7  ~/Dockerfile
-|4,39,2,7,1714199433,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1714199420,"~/Dockerfile"
--'  2  46  ~/html/Dockerfile
-|4,39,2,46,1714198560,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerf
+|4,39,1,0,1714200781,"~/html/Dockerf"
+-'  1  0  ~/html/Dockerf
+|4,39,1,0,1714200781,"~/html/Dockerf"
+-'  1  0  ~/html/Dockerf
+|4,39,1,0,1714200781,"~/html/Dockerf"
+-'  1  0  ~/html/Dockerf
+|4,39,1,0,1714200781,"~/html/Dockerf"
+-'  1  0  ~/html/Dockerf
+|4,39,1,0,1714200781,"~/html/Dockerf"
+-'  1  0  ~/html/Dockerf
+|4,39,1,0,1714200781,"~/html/Dockerf"
+-'  1  0  ~/html/Dockerf
+|4,39,1,0,1714200781,"~/html/Dockerf"
+-'  1  0  ~/html/Dockerf
+|4,39,1,0,1714200781,"~/html/Dockerf"
+-'  1  0  ~/html/Dockerf
+|4,39,1,0,1714200781,"~/html/Dockerf"
+-'  1  0  ~/html/Dockerf
+|4,39,1,0,1714200781,"~/html/Dockerf"
+-'  1  0  ~/html/Dockerf
+|4,39,1,0,1714200781,"~/html/Dockerf"
+-'  1  0  ~/html/Dockerf
+|4,39,1,0,1714200781,"~/html/Dockerf"
+-'  1  0  ~/html/Dockerf
+|4,39,1,0,1714200781,"~/html/Dockerf"
+-'  1  0  ~/html/Dockerf
+|4,39,1,0,1714200781,"~/html/Dockerf"
+-'  1  0  ~/html/Dockerf
+|4,39,1,0,1714200781,"~/html/Dockerf"
+-'  1  0  ~/html/Dockerf
+|4,39,1,0,1714200781,"~/html/Dockerf"
+-'  1  0  ~/html/Dockerf
+|4,39,1,0,1714200781,"~/html/Dockerf"
+-'  1  0  ~/html/Dockerf
+|4,39,1,0,1714200781,"~/html/Dockerf"
 
 # History of marks within files (newest to oldest):
+
+> ~/index.html
+	*	1714201451	0
+	"	1	2
+	^	271	0
+	.	270	7
+	+	1	15
+	+	270	7
+
+> ~/i
+	*	1714201177	0
+	"	1	0
 
 > ~/html/Dockerfile
 	*	1714200819	0
@@ -320,14 +390,6 @@
 	^	2	33
 	.	2	32
 	+	2	32
-
-> ~/index.html
-	*	1714200564	0
-	"	271	0
-	^	271	0
-	.	270	7
-	+	1	15
-	+	270	7
 
 > ~/Do
 	*	1714200473	0
