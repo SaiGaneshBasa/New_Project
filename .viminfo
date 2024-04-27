@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1714201453,,"wq"
+|2,0,1714202399,,"wq"
 :Wq
 |2,0,1714201451,,"Wq"
 :q!
@@ -27,7 +27,7 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-""0	CHAR	0
+""0	LINE	0
 	<!DOCTYPE html>
 	<html lang="en">
 	   <head>
@@ -78,7 +78,7 @@
 	                     <a class="nav-link" href="about.html">About</a>
 	                  </li>
 	                  <li class="nav-item">
-|3,1,0,0,50,0,1714201287,"<!DOCTYPE html>","<html lang=\"en\">","   <head>","      <!-- basic -->","      <meta charset=\"utf-8\">","      <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">","      <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">","      <!-- mobile metas -->","      <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",>77
+|3,1,0,1,50,0,1714202096,"<!DOCTYPE html>","<html lang=\"en\">","   <head>","      <!-- basic -->","      <meta charset=\"utf-8\">","      <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">","      <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">","      <!-- mobile metas -->","      <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",>77
 |<"      <meta name=\"viewport\" content=\"initial-scale=1, maximum-scale=1\">","      <!-- site metas -->","      <title>Cycle</title>","      <meta name=\"keywords\" content=\"\">","      <meta name=\"description\" content=\"\">","      <meta name=\"author\" content=\"\">","      <!-- bootstrap css -->","      <link rel=\"stylesheet\" type=\"text/css\" href=\"css/bootstrap.min.css\">","      <!-- style css -->","      <link rel=\"stylesheet\" type=\"text/css\" href=\"css/style.css\">",>26
 |<"      <!-- Responsive-->","      <link rel=\"stylesheet\" href=\"css/responsive.css\">","      <!-- fevicon -->","      <link rel=\"icon\" href=\"images/fevicon.png\" type=\"image/gif\" />","      <!-- Scrollbar Custom CSS -->","      <link rel=\"stylesheet\" href=\"css/jquery.mCustomScrollbar.min.css\">","      <!-- Tweaks for older IEs-->","      <link rel=\"stylesheet\" href=\"https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css\">",>33
 |<"      <!-- owl stylesheets --> ","      <link href=\"https://fonts.googleapis.com/css?family=Poppins:400,700|Raleway:400,700,800&display=swap\" rel=\"stylesheet\">","      <link rel=\"stylesheet\" href=\"css/owl.carousel.min.css\">","      <link rel=\"stylesoeet\" href=\"css/owl.theme.default.min.css\">","      <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css\" media=\"screen\">","   </head>","   <body>",>37
@@ -139,36 +139,138 @@
 |<"        <h1>Welcome to My Webpage</h1>","    </header>","","    <main>","        <p>This is a simple HTML webpage.</p>","        <p>Feel free to edit and customize it as you wish!</p>","    </main>","","    <footer>","        <p>© 2024 My Webpage. All rights reserved.</p>","    </footer>","</body>","</html>"
 
 # File marks:
-'0  1  2  ~/index.html
-|4,48,1,2,1714201453,"~/index.html"
-'1  1  2  ~/index.html
-|4,49,1,2,1714201426,"~/index.html"
-'2  1  0  ~/i
-|4,50,1,0,1714201181,"~/i"
-'3  229  0  ~/index.html
-|4,51,229,0,1714201155,"~/index.html"
-'4  229  0  ~/index.html
-|4,52,229,0,1714201155,"~/index.html"
-'5  229  0  ~/index.html
-|4,53,229,0,1714201155,"~/index.html"
-'6  229  0  ~/index.html
-|4,54,229,0,1714201155,"~/index.html"
-'7  2  32  ~/html/Dockerfile
-|4,55,2,32,1714200821,"~/html/Dockerfile"
-'8  2  32  ~/html/Dockerf
-|4,56,2,32,1714200808,"~/html/Dockerf"
-'9  271  0  ~/index.html
-|4,57,271,0,1714200565,"~/index.html"
+'0  414  6  ~/index.html
+|4,48,414,6,1714202399,"~/index.html"
+'1  122  2  ~/index.html
+|4,49,122,2,1714202364,"~/index.html"
+'2  122  2  ~/index.html
+|4,50,122,2,1714202364,"~/index.html"
+'3  2  5  ~/html/Dockerfile
+|4,51,2,5,1714202346,"~/html/Dockerfile"
+'4  270  0  ~/staticsite-docker/html/cycle.html
+|4,52,270,0,1714202109,"~/staticsite-docker/html/cycle.html"
+'5  1  2  ~/index.html
+|4,53,1,2,1714201453,"~/index.html"
+'6  1  2  ~/index.html
+|4,54,1,2,1714201453,"~/index.html"
+'7  1  2  ~/index.html
+|4,55,1,2,1714201453,"~/index.html"
+'8  1  2  ~/index.html
+|4,56,1,2,1714201453,"~/index.html"
+'9  1  2  ~/index.html
+|4,57,1,2,1714201426,"~/index.html"
 
 # Jumplist (newest first):
+-'  414  6  ~/index.html
+|4,39,414,6,1714202399,"~/index.html"
+-'  122  2  ~/index.html
+|4,39,122,2,1714202378,"~/index.html"
+-'  122  2  ~/index.html
+|4,39,122,2,1714202364,"~/index.html"
+-'  1  2  ~/index.html
+|4,39,1,2,1714202359,"~/index.html"
+-'  1  2  ~/index.html
+|4,39,1,2,1714202359,"~/index.html"
+-'  2  5  ~/html/Dockerfile
+|4,39,2,5,1714202346,"~/html/Dockerfile"
+-'  2  5  ~/html/Dockerfile
+|4,39,2,5,1714202346,"~/html/Dockerfile"
+-'  2  5  ~/html/Dockerfile
+|4,39,2,5,1714202346,"~/html/Dockerfile"
+-'  2  5  ~/html/Dockerfile
+|4,39,2,5,1714202346,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714202291,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714202291,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714202291,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714202291,"~/html/Dockerfile"
+-'  270  0  ~/staticsite-docker/html/cycle.html
+|4,39,270,0,1714202109,"~/staticsite-docker/html/cycle.html"
+-'  270  0  ~/staticsite-docker/html/cycle.html
+|4,39,270,0,1714202109,"~/staticsite-docker/html/cycle.html"
+-'  270  0  ~/staticsite-docker/html/cycle.html
+|4,39,270,0,1714202109,"~/staticsite-docker/html/cycle.html"
+-'  270  0  ~/staticsite-docker/html/cycle.html
+|4,39,270,0,1714202109,"~/staticsite-docker/html/cycle.html"
+-'  270  0  ~/staticsite-docker/html/cycle.html
+|4,39,270,0,1714202109,"~/staticsite-docker/html/cycle.html"
+-'  270  0  ~/staticsite-docker/html/cycle.html
+|4,39,270,0,1714202109,"~/staticsite-docker/html/cycle.html"
+-'  270  0  ~/staticsite-docker/html/cycle.html
+|4,39,270,0,1714202109,"~/staticsite-docker/html/cycle.html"
+-'  270  0  ~/staticsite-docker/html/cycle.html
+|4,39,270,0,1714202109,"~/staticsite-docker/html/cycle.html"
+-'  1  0  ~/staticsite-docker/html/cycle.html
+|4,39,1,0,1714202089,"~/staticsite-docker/html/cycle.html"
+-'  1  0  ~/staticsite-docker/html/cycle.html
+|4,39,1,0,1714202089,"~/staticsite-docker/html/cycle.html"
+-'  1  0  ~/staticsite-docker/html/cycle.html
+|4,39,1,0,1714202089,"~/staticsite-docker/html/cycle.html"
+-'  1  0  ~/staticsite-docker/html/cycle.html
+|4,39,1,0,1714202089,"~/staticsite-docker/html/cycle.html"
+-'  1  0  ~/staticsite-docker/html/cycle.html
+|4,39,1,0,1714202089,"~/staticsite-docker/html/cycle.html"
+-'  1  0  ~/staticsite-docker/html/cycle.html
+|4,39,1,0,1714202089,"~/staticsite-docker/html/cycle.html"
+-'  1  0  ~/staticsite-docker/html/cycle.html
+|4,39,1,0,1714202089,"~/staticsite-docker/html/cycle.html"
+-'  1  0  ~/staticsite-docker/html/cycle.html
+|4,39,1,0,1714202089,"~/staticsite-docker/html/cycle.html"
 -'  1  2  ~/index.html
 |4,39,1,2,1714201453,"~/index.html"
+-'  1  2  ~/index.html
+|4,39,1,2,1714201453,"~/index.html"
+-'  1  2  ~/index.html
+|4,39,1,2,1714201453,"~/index.html"
+-'  1  2  ~/index.html
+|4,39,1,2,1714201453,"~/index.html"
+-'  1  2  ~/index.html
+|4,39,1,2,1714201426,"~/index.html"
+-'  1  2  ~/index.html
+|4,39,1,2,1714201426,"~/index.html"
+-'  1  2  ~/index.html
+|4,39,1,2,1714201426,"~/index.html"
 -'  1  2  ~/index.html
 |4,39,1,2,1714201426,"~/index.html"
 -'  29  0  ~/index.html
 |4,39,29,0,1714201265,"~/index.html"
 -'  29  0  ~/index.html
 |4,39,29,0,1714201265,"~/index.html"
+-'  29  0  ~/index.html
+|4,39,29,0,1714201265,"~/index.html"
+-'  29  0  ~/index.html
+|4,39,29,0,1714201265,"~/index.html"
+-'  29  0  ~/index.html
+|4,39,29,0,1714201265,"~/index.html"
+-'  29  0  ~/index.html
+|4,39,29,0,1714201265,"~/index.html"
+-'  29  0  ~/index.html
+|4,39,29,0,1714201265,"~/index.html"
+-'  29  0  ~/index.html
+|4,39,29,0,1714201265,"~/index.html"
+-'  29  0  ~/index.html
+|4,39,29,0,1714201265,"~/index.html"
+-'  29  0  ~/index.html
+|4,39,29,0,1714201265,"~/index.html"
+-'  229  0  ~/index.html
+|4,39,229,0,1714201185,"~/index.html"
+-'  229  0  ~/index.html
+|4,39,229,0,1714201185,"~/index.html"
+-'  229  0  ~/index.html
+|4,39,229,0,1714201185,"~/index.html"
+-'  229  0  ~/index.html
+|4,39,229,0,1714201185,"~/index.html"
+-'  229  0  ~/index.html
+|4,39,229,0,1714201185,"~/index.html"
+-'  229  0  ~/index.html
+|4,39,229,0,1714201185,"~/index.html"
+-'  229  0  ~/index.html
+|4,39,229,0,1714201185,"~/index.html"
+-'  229  0  ~/index.html
+|4,39,229,0,1714201185,"~/index.html"
 -'  229  0  ~/index.html
 |4,39,229,0,1714201185,"~/index.html"
 -'  229  0  ~/index.html
@@ -181,208 +283,111 @@
 |4,39,1,0,1714201181,"~/i"
 -'  1  0  ~/i
 |4,39,1,0,1714201181,"~/i"
--'  229  0  ~/index.html
-|4,39,229,0,1714201155,"~/index.html"
--'  229  0  ~/index.html
-|4,39,229,0,1714201155,"~/index.html"
--'  271  0  ~/index.html
-|4,39,271,0,1714201150,"~/index.html"
--'  271  0  ~/index.html
-|4,39,271,0,1714201150,"~/index.html"
--'  271  0  ~/index.html
-|4,39,271,0,1714201150,"~/index.html"
--'  271  0  ~/index.html
-|4,39,271,0,1714201150,"~/index.html"
--'  2  32  ~/html/Dockerfile
-|4,39,2,32,1714200821,"~/html/Dockerfile"
--'  2  32  ~/html/Dockerfile
-|4,39,2,32,1714200821,"~/html/Dockerfile"
--'  2  32  ~/html/Dockerfile
-|4,39,2,32,1714200821,"~/html/Dockerfile"
--'  2  32  ~/html/Dockerfile
-|4,39,2,32,1714200821,"~/html/Dockerfile"
--'  2  32  ~/html/Dockerfile
-|4,39,2,32,1714200821,"~/html/Dockerfile"
--'  2  32  ~/html/Dockerfile
-|4,39,2,32,1714200821,"~/html/Dockerfile"
--'  2  32  ~/html/Dockerfile
-|4,39,2,32,1714200821,"~/html/Dockerfile"
--'  2  32  ~/html/Dockerfile
-|4,39,2,32,1714200821,"~/html/Dockerfile"
--'  2  32  ~/html/Dockerfile
-|4,39,2,32,1714200821,"~/html/Dockerfile"
--'  2  32  ~/html/Dockerfile
-|4,39,2,32,1714200821,"~/html/Dockerfile"
--'  2  32  ~/html/Dockerfile
-|4,39,2,32,1714200821,"~/html/Dockerfile"
--'  2  32  ~/html/Dockerfile
-|4,39,2,32,1714200821,"~/html/Dockerfile"
--'  2  32  ~/html/Dockerfile
-|4,39,2,32,1714200821,"~/html/Dockerfile"
--'  2  32  ~/html/Dockerfile
-|4,39,2,32,1714200821,"~/html/Dockerfile"
--'  2  32  ~/html/Dockerfile
-|4,39,2,32,1714200821,"~/html/Dockerfile"
--'  2  32  ~/html/Dockerfile
-|4,39,2,32,1714200821,"~/html/Dockerfile"
--'  1  0  ~/html/Dockerfile
-|4,39,1,0,1714200815,"~/html/Dockerfile"
--'  1  0  ~/html/Dockerfile
-|4,39,1,0,1714200815,"~/html/Dockerfile"
--'  1  0  ~/html/Dockerfile
-|4,39,1,0,1714200815,"~/html/Dockerfile"
--'  1  0  ~/html/Dockerfile
-|4,39,1,0,1714200815,"~/html/Dockerfile"
--'  1  0  ~/html/Dockerfile
-|4,39,1,0,1714200815,"~/html/Dockerfile"
--'  1  0  ~/html/Dockerfile
-|4,39,1,0,1714200815,"~/html/Dockerfile"
--'  1  0  ~/html/Dockerfile
-|4,39,1,0,1714200815,"~/html/Dockerfile"
--'  1  0  ~/html/Dockerfile
-|4,39,1,0,1714200815,"~/html/Dockerfile"
--'  1  0  ~/html/Dockerfile
-|4,39,1,0,1714200815,"~/html/Dockerfile"
--'  1  0  ~/html/Dockerfile
-|4,39,1,0,1714200815,"~/html/Dockerfile"
--'  1  0  ~/html/Dockerfile
-|4,39,1,0,1714200815,"~/html/Dockerfile"
--'  1  0  ~/html/Dockerfile
-|4,39,1,0,1714200815,"~/html/Dockerfile"
--'  1  0  ~/html/Dockerfile
-|4,39,1,0,1714200815,"~/html/Dockerfile"
--'  1  0  ~/html/Dockerfile
-|4,39,1,0,1714200815,"~/html/Dockerfile"
--'  1  0  ~/html/Dockerfile
-|4,39,1,0,1714200815,"~/html/Dockerfile"
--'  1  0  ~/html/Dockerfile
-|4,39,1,0,1714200815,"~/html/Dockerfile"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  2  32  ~/html/Dockerf
-|4,39,2,32,1714200808,"~/html/Dockerf"
--'  1  0  ~/html/Dockerf
-|4,39,1,0,1714200781,"~/html/Dockerf"
--'  1  0  ~/html/Dockerf
-|4,39,1,0,1714200781,"~/html/Dockerf"
--'  1  0  ~/html/Dockerf
-|4,39,1,0,1714200781,"~/html/Dockerf"
--'  1  0  ~/html/Dockerf
-|4,39,1,0,1714200781,"~/html/Dockerf"
--'  1  0  ~/html/Dockerf
-|4,39,1,0,1714200781,"~/html/Dockerf"
--'  1  0  ~/html/Dockerf
-|4,39,1,0,1714200781,"~/html/Dockerf"
--'  1  0  ~/html/Dockerf
-|4,39,1,0,1714200781,"~/html/Dockerf"
--'  1  0  ~/html/Dockerf
-|4,39,1,0,1714200781,"~/html/Dockerf"
--'  1  0  ~/html/Dockerf
-|4,39,1,0,1714200781,"~/html/Dockerf"
--'  1  0  ~/html/Dockerf
-|4,39,1,0,1714200781,"~/html/Dockerf"
--'  1  0  ~/html/Dockerf
-|4,39,1,0,1714200781,"~/html/Dockerf"
--'  1  0  ~/html/Dockerf
-|4,39,1,0,1714200781,"~/html/Dockerf"
--'  1  0  ~/html/Dockerf
-|4,39,1,0,1714200781,"~/html/Dockerf"
--'  1  0  ~/html/Dockerf
-|4,39,1,0,1714200781,"~/html/Dockerf"
--'  1  0  ~/html/Dockerf
-|4,39,1,0,1714200781,"~/html/Dockerf"
--'  1  0  ~/html/Dockerf
-|4,39,1,0,1714200781,"~/html/Dockerf"
--'  1  0  ~/html/Dockerf
-|4,39,1,0,1714200781,"~/html/Dockerf"
--'  1  0  ~/html/Dockerf
-|4,39,1,0,1714200781,"~/html/Dockerf"
--'  1  0  ~/html/Dockerf
-|4,39,1,0,1714200781,"~/html/Dockerf"
--'  1  0  ~/html/Dockerf
-|4,39,1,0,1714200781,"~/html/Dockerf"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
+-'  1  0  ~/i
+|4,39,1,0,1714201181,"~/i"
 
 # History of marks within files (newest to oldest):
 
 > ~/index.html
-	*	1714201451	0
-	"	1	2
+	*	1714202398	0
+	"	414	6
 	^	271	0
 	.	270	7
 	+	1	15
 	+	270	7
 
+> ~/html/Dockerfile
+	*	1714202340	0
+	"	2	5
+	^	2	6
+	.	2	6
+	+	4	19
+	+	3	32
+	+	2	6
+
+> ~/staticsite-docker/html/cycle.html
+	*	1714202108	0
+	"	270	0
+
 > ~/i
 	*	1714201177	0
 	"	1	0
-
-> ~/html/Dockerfile
-	*	1714200819	0
-	"	2	32
-	^	2	33
-	.	2	32
-	+	3	19
-	+	2	32
 
 > ~/html/Dockerf
 	*	1714200804	0
