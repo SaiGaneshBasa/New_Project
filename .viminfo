@@ -12,9 +12,11 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1714199433,,"wq"
+|2,0,1714200565,,"wq"
 :Wq
-|2,0,1714198556,,"Wq"
+|2,0,1714200493,,"Wq"
+:q!
+|2,0,1714200476,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -25,34 +27,174 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""1	LINE	0
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	    <meta charset="UTF-8">
+	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	    <title>My Webpage</title>
+	    <style>
+	        body {
+	            font-family: Arial, sans-serif;
+	            margin: 0;
+	            padding: 0;
+	            background-color: #f0f0f0;
+	        }
+	        header {
+	            background-color: #333;
+	            color: #fff;
+	            padding: 10px;
+	            text-align: center;
+	        }
+	        main {
+	            padding: 20px;
+	        }
+	        footer {
+	            background-color: #333;
+	            color: #fff;
+	            text-align: center;
+	            padding: 10px;
+	            position: fixed;
+	            bottom: 0;
+	            width: 100%;
+	        }
+	    </style>
+	</head>
+	<body>
+	    <header>
+	        <h1>Welcome to My Webpage</h1>
+	    </header>
+	
+	    <main>
+	        <p>This is a simple HTML webpage.</p>
+	        <p>Feel free to edit and customize it as you wish!</p>
+	    </main>
+	
+	    <footer>
+	        <p>© 2024 My Webpage. All rights reserved.</p>
+	    </footer>
+	</body>
+	</html>
+|3,1,1,1,48,0,1714200556,"<!DOCTYPE html>","<html lang=\"en\">","<head>","    <meta charset=\"UTF-8\">","    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">","    <title>My Webpage</title>","    <style>","        body {","            font-family: Arial, sans-serif;","            margin: 0;","            padding: 0;","            background-color: #f0f0f0;","        }","        header {","            background-color: #333;",>26
+|<"            color: #fff;","            padding: 10px;","            text-align: center;","        }","        main {","            padding: 20px;","        }","        footer {","            background-color: #333;","            color: #fff;","            text-align: center;","            padding: 10px;","            position: fixed;","            bottom: 0;","            width: 100%;","        }","    </style>","</head>","<body>","    <header>",>40
+|<"        <h1>Welcome to My Webpage</h1>","    </header>","","    <main>","        <p>This is a simple HTML webpage.</p>","        <p>Feel free to edit and customize it as you wish!</p>","    </main>","","    <footer>","        <p>© 2024 My Webpage. All rights reserved.</p>","    </footer>","</body>","</html>"
 
 # File marks:
-'0  2  7  ~/Dockerfile
-|4,48,2,7,1714199433,"~/Dockerfile"
-'1  2  46  ~/html/Dockerfile
-|4,49,2,46,1714198560,"~/html/Dockerfile"
-'2  2  16  ~/html/Dockerfile
-|4,50,2,16,1714198436,"~/html/Dockerfile"
-'3  2  18  ~/html/Dockerfile
-|4,51,2,18,1714198365,"~/html/Dockerfile"
-'4  2  18  ~/html/Dockerfile
-|4,52,2,18,1714198365,"~/html/Dockerfile"
-'5  6  25  ~/jenkins.sh
-|4,53,6,25,1714195018,"~/jenkins.sh"
+'0  271  0  ~/index.html
+|4,48,271,0,1714200565,"~/index.html"
+'1  2  32  ~/html/Dockerfile
+|4,49,2,32,1714200495,"~/html/Dockerfile"
+'2  1  0  ~/Do
+|4,50,1,0,1714200476,"~/Do"
+'3  2  7  ~/Dockerfile
+|4,51,2,7,1714199433,"~/Dockerfile"
+'4  2  46  ~/html/Dockerfile
+|4,52,2,46,1714198560,"~/html/Dockerfile"
+'5  2  16  ~/html/Dockerfile
+|4,53,2,16,1714198436,"~/html/Dockerfile"
+'6  2  16  ~/html/Dockerfile
+|4,54,2,16,1714198436,"~/html/Dockerfile"
+'7  2  18  ~/html/Dockerfile
+|4,55,2,18,1714198365,"~/html/Dockerfile"
+'8  2  18  ~/html/Dockerfile
+|4,56,2,18,1714198365,"~/html/Dockerfile"
+'9  2  18  ~/html/Dockerfile
+|4,57,2,18,1714198365,"~/html/Dockerfile"
 
 # Jumplist (newest first):
+-'  271  0  ~/index.html
+|4,39,271,0,1714200565,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1714200540,"~/index.html"
+-'  2  32  ~/html/Dockerfile
+|4,39,2,32,1714200495,"~/html/Dockerfile"
+-'  2  32  ~/html/Dockerfile
+|4,39,2,32,1714200495,"~/html/Dockerfile"
+-'  1  0  ~/Do
+|4,39,1,0,1714200476,"~/Do"
+-'  1  0  ~/Do
+|4,39,1,0,1714200476,"~/Do"
+-'  1  0  ~/Do
+|4,39,1,0,1714200476,"~/Do"
+-'  1  0  ~/Do
+|4,39,1,0,1714200476,"~/Do"
 -'  2  7  ~/Dockerfile
 |4,39,2,7,1714199433,"~/Dockerfile"
+-'  2  7  ~/Dockerfile
+|4,39,2,7,1714199433,"~/Dockerfile"
+-'  2  7  ~/Dockerfile
+|4,39,2,7,1714199433,"~/Dockerfile"
+-'  2  7  ~/Dockerfile
+|4,39,2,7,1714199433,"~/Dockerfile"
+-'  2  7  ~/Dockerfile
+|4,39,2,7,1714199433,"~/Dockerfile"
+-'  2  7  ~/Dockerfile
+|4,39,2,7,1714199433,"~/Dockerfile"
+-'  2  7  ~/Dockerfile
+|4,39,2,7,1714199433,"~/Dockerfile"
+-'  2  7  ~/Dockerfile
+|4,39,2,7,1714199433,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1714199420,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1714199420,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1714199420,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1714199420,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1714199420,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1714199420,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1714199420,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
 |4,39,1,0,1714199420,"~/Dockerfile"
 -'  2  46  ~/html/Dockerfile
 |4,39,2,46,1714198560,"~/html/Dockerfile"
 -'  2  46  ~/html/Dockerfile
 |4,39,2,46,1714198560,"~/html/Dockerfile"
+-'  2  46  ~/html/Dockerfile
+|4,39,2,46,1714198560,"~/html/Dockerfile"
+-'  2  46  ~/html/Dockerfile
+|4,39,2,46,1714198560,"~/html/Dockerfile"
+-'  2  46  ~/html/Dockerfile
+|4,39,2,46,1714198560,"~/html/Dockerfile"
+-'  2  46  ~/html/Dockerfile
+|4,39,2,46,1714198560,"~/html/Dockerfile"
+-'  2  46  ~/html/Dockerfile
+|4,39,2,46,1714198560,"~/html/Dockerfile"
+-'  2  46  ~/html/Dockerfile
+|4,39,2,46,1714198560,"~/html/Dockerfile"
 -'  2  16  ~/html/Dockerfile
 |4,39,2,16,1714198436,"~/html/Dockerfile"
 -'  2  16  ~/html/Dockerfile
 |4,39,2,16,1714198436,"~/html/Dockerfile"
+-'  2  16  ~/html/Dockerfile
+|4,39,2,16,1714198436,"~/html/Dockerfile"
+-'  2  16  ~/html/Dockerfile
+|4,39,2,16,1714198436,"~/html/Dockerfile"
+-'  2  16  ~/html/Dockerfile
+|4,39,2,16,1714198436,"~/html/Dockerfile"
+-'  2  16  ~/html/Dockerfile
+|4,39,2,16,1714198436,"~/html/Dockerfile"
+-'  2  16  ~/html/Dockerfile
+|4,39,2,16,1714198436,"~/html/Dockerfile"
+-'  2  16  ~/html/Dockerfile
+|4,39,2,16,1714198436,"~/html/Dockerfile"
+-'  2  18  ~/html/Dockerfile
+|4,39,2,18,1714198365,"~/html/Dockerfile"
+-'  2  18  ~/html/Dockerfile
+|4,39,2,18,1714198365,"~/html/Dockerfile"
+-'  2  18  ~/html/Dockerfile
+|4,39,2,18,1714198365,"~/html/Dockerfile"
+-'  2  18  ~/html/Dockerfile
+|4,39,2,18,1714198365,"~/html/Dockerfile"
+-'  2  18  ~/html/Dockerfile
+|4,39,2,18,1714198365,"~/html/Dockerfile"
+-'  2  18  ~/html/Dockerfile
+|4,39,2,18,1714198365,"~/html/Dockerfile"
 -'  2  18  ~/html/Dockerfile
 |4,39,2,18,1714198365,"~/html/Dockerfile"
 -'  2  18  ~/html/Dockerfile
@@ -69,6 +211,46 @@
 |4,39,1,0,1714198251,"~/html/Dockerfile"
 -'  1  0  ~/html/Dockerfile
 |4,39,1,0,1714198251,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714198251,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714198251,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714198251,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714198251,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714198251,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714198251,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714198251,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714198251,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714198251,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714198251,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714198251,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714198251,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714198251,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714198251,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714198251,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714198251,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714198251,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714198251,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714198251,"~/html/Dockerfile"
+-'  1  0  ~/html/Dockerfile
+|4,39,1,0,1714198251,"~/html/Dockerfile"
 -'  6  25  ~/jenkins.sh
 |4,39,6,25,1714195018,"~/jenkins.sh"
 -'  6  25  ~/jenkins.sh
@@ -101,40 +283,47 @@
 |4,39,6,25,1714195018,"~/jenkins.sh"
 -'  6  25  ~/jenkins.sh
 |4,39,6,25,1714195018,"~/jenkins.sh"
--'  1  0  ~/jenkins.sh
-|4,39,1,0,1714194998,"~/jenkins.sh"
--'  1  0  ~/jenkins.sh
-|4,39,1,0,1714194998,"~/jenkins.sh"
--'  1  0  ~/jenkins.sh
-|4,39,1,0,1714194998,"~/jenkins.sh"
--'  1  0  ~/jenkins.sh
-|4,39,1,0,1714194998,"~/jenkins.sh"
--'  1  0  ~/jenkins.sh
-|4,39,1,0,1714194998,"~/jenkins.sh"
--'  1  0  ~/jenkins.sh
-|4,39,1,0,1714194998,"~/jenkins.sh"
--'  1  0  ~/jenkins.sh
-|4,39,1,0,1714194998,"~/jenkins.sh"
--'  1  0  ~/jenkins.sh
-|4,39,1,0,1714194998,"~/jenkins.sh"
--'  1  0  ~/jenkins.sh
-|4,39,1,0,1714194998,"~/jenkins.sh"
--'  1  0  ~/jenkins.sh
-|4,39,1,0,1714194998,"~/jenkins.sh"
--'  1  0  ~/jenkins.sh
-|4,39,1,0,1714194998,"~/jenkins.sh"
--'  1  0  ~/jenkins.sh
-|4,39,1,0,1714194998,"~/jenkins.sh"
--'  1  0  ~/jenkins.sh
-|4,39,1,0,1714194998,"~/jenkins.sh"
--'  1  0  ~/jenkins.sh
-|4,39,1,0,1714194998,"~/jenkins.sh"
--'  1  0  ~/jenkins.sh
-|4,39,1,0,1714194998,"~/jenkins.sh"
--'  1  0  ~/jenkins.sh
-|4,39,1,0,1714194998,"~/jenkins.sh"
+-'  6  25  ~/jenkins.sh
+|4,39,6,25,1714195018,"~/jenkins.sh"
+-'  6  25  ~/jenkins.sh
+|4,39,6,25,1714195018,"~/jenkins.sh"
+-'  6  25  ~/jenkins.sh
+|4,39,6,25,1714195018,"~/jenkins.sh"
+-'  6  25  ~/jenkins.sh
+|4,39,6,25,1714195018,"~/jenkins.sh"
+-'  6  25  ~/jenkins.sh
+|4,39,6,25,1714195018,"~/jenkins.sh"
+-'  6  25  ~/jenkins.sh
+|4,39,6,25,1714195018,"~/jenkins.sh"
+-'  6  25  ~/jenkins.sh
+|4,39,6,25,1714195018,"~/jenkins.sh"
+-'  6  25  ~/jenkins.sh
+|4,39,6,25,1714195018,"~/jenkins.sh"
+-'  6  25  ~/jenkins.sh
+|4,39,6,25,1714195018,"~/jenkins.sh"
+-'  6  25  ~/jenkins.sh
+|4,39,6,25,1714195018,"~/jenkins.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/index.html
+	*	1714200564	0
+	"	271	0
+	^	271	0
+	.	270	7
+	+	1	15
+	+	270	7
+
+> ~/html/Dockerfile
+	*	1714200495	0
+	"	2	32
+	^	2	47
+	.	2	19
+	+	2	19
+
+> ~/Do
+	*	1714200473	0
+	"	1	0
 
 > ~/Dockerfile
 	*	1714199431	0
@@ -142,13 +331,6 @@
 	^	2	8
 	.	2	5
 	+	2	5
-
-> ~/html/Dockerfile
-	*	1714198558	0
-	"	2	46
-	^	2	47
-	.	2	19
-	+	2	19
 
 > ~/jenkins.sh
 	*	1714195017	0
